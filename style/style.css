@@ -1,0 +1,23 @@
+.search-bar {
+	text-align: center;
+	margin: 20px 0;
+}
+
+.search-bar input {
+	width: 50%;
+	padding: 5px;
+}
+
+.details {
+	margin-top: 10px;
+}
+
+.details .title {
+	font-weight: bold;
+}
+
+.list-group-item:hover {
+	cursor: pointer;
+	background-color: #ffefca;
+	border: 2px solid #ffd97d;
+}
